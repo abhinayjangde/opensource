@@ -20,7 +20,7 @@ export default function Home() {
 
           <code>
             <pre>
-              let a = 34;
+              let a = 23;
               console.log(a)
             </pre>
           </code>
