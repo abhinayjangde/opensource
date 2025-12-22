@@ -17,6 +17,13 @@ export default function Home() {
             To get started, edit the page.tsx file is updated adding more text.
           </h1>
           <p>merge conflict resolve</p>
+
+          <code>
+            <pre>
+              let a = 34;
+              console.log(a)
+            </pre>
+          </code>
           <p className="max-w-md text-lg leading-8 text-zinc-600 dark:text-zinc-400">
             Looking for a starting point or more instructions? Head over to{" "}
             <a
